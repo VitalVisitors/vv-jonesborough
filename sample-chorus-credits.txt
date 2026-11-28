@@ -2,6 +2,6 @@ Sample birdsong on this kiosk. Each clip is a four-second excerpt, trimmed and l
 
 Carolina Chickadee: Evan M. Raskin, http://www.inaturalist.org/observations/1341126, CC BY 4.0
 Song Sparrow: John Clonce, https://www.inaturalist.org/observations/332323066, CC BY 4.0
+Blue Jay: debian brown, https://www.inaturalist.org/observations/254100111, CC0
 Carolina Wren: Evan M. Raskin, http://www.inaturalist.org/observations/1341125, CC BY 4.0
 Tufted Titmouse: Evan M. Raskin, http://www.inaturalist.org/observations/1338553, CC BY 4.0
-Blue Jay: debian brown, https://www.inaturalist.org/observations/254100111, CC0
